@@ -1,4 +1,4 @@
-##Packages to install
+## Packages to install
 
 1. @headlessui/react:
 Used for smooth transition between tabs
